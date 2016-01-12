@@ -125,5 +125,5 @@ ggplot(days, aes(interval, int.act)) +
   xlab("Interval") +
   ggtitle("Steps over Intervals Weekday vs Weekend")
 
-knit2html("~/Desktop/Coursera/Reproducible Research/Assignment 1/PA1_template.Rmd")
+knit2html("PA1_template.Rmd")
 ```
